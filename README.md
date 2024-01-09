@@ -40,7 +40,7 @@ Les problemes rencontrées:
 Bon visionnage et lecture de notre code!
 
 
-                                            Nous vous remercions de nous avoir laisser vous présenter ce code: Ruet Arthur / Theo Meilliez.
+                         Nous vous remercions de nous avoir laisser vous présenter ce code: Ruet Arthur / Theo Meilliez.
 
 
 
